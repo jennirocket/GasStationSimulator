@@ -5,7 +5,7 @@ import java.util.Random;
 import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
-/** Hier sind die Attribute für die Fahrer KLasse. Die ersten drei sind dafür da, um die durschnittliche und maximale  Wartezeit
+/** Hier sind die Attribute für die Fahrer Klasse. Die ersten drei sind dafür da, um die durschnittliche und maximale  Wartezeit
  * vor einer Zapfsäule und der Kasse zu berechnen.
  * Das nächste Attribut ist die Nummer, die jeder Kunde bekommt, damit dieser von anderen unterscheidbar ist.
  * Die nächsten Attribute sind jeweils Objekte der Kasse und Zapfsäule Klassen und deren Verteiler Klassen.
